@@ -1,2 +1,3 @@
-# Transistor-NOT
-Laboratorio 3 – 2do. cuatrimestre 2018 – C ́atedra Schmiegelow - Facultad de Ciencias Exactas y Naturales, UBA
+# Own Scientific Papers
+
+I am the author and co-author of these papers. Created when I was studying at Facultad de Ciencias Exactas y Naturales, UBA
